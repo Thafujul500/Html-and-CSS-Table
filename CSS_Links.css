@@ -1,0 +1,61 @@
+a{
+    text-decoration: none;
+    background-color: rgb(238, 5, 5);
+    color: darkgreen;
+    height: 50px;
+    width: 80px;
+    display: inline-block;
+    text-align: center;
+    padding: 30px 40px;
+
+}
+
+
+.zihad{
+    background-color: rgb(241, 245, 9);
+    color: blue;
+    padding: 10px 20px;
+    border-radius: 15px;
+    margin-left: 10px;
+
+}
+
+a.zihad:hover {
+    background-color: aqua;
+    color: chartreuse;
+    transition: .3s all;
+
+}
+
+.Raj{
+    background-color: white;
+    color: brown;
+    padding: 20px 30px;
+    border-radius: 15px;
+    margin-left: 10px;
+    text-decoration: none;
+    border: 2px solid red;
+
+    
+
+
+}
+
+a.Raj:hover{
+    background-image: linear-gradient(to right,red,blue);
+        
+    color: chartreuse;
+    cursor: help;
+    transition: 0.20s all;
+
+}
+
+.button{
+    color: blue;
+    background-image: linear-gradient(to left,rgb(7, 224, 43),rgb(222, 245, 17));
+    border-radius: 20%;
+    margin-left: 20px;
+    height: 50px;
+    width: 100px;
+}
+

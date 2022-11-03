@@ -1,0 +1,10 @@
+table{
+    border-collapse: separate;
+  }
+  th{
+      height: 60px;
+  }
+
+  .zihad{
+    text-align: center;
+  }

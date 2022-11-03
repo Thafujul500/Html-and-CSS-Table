@@ -1,0 +1,43 @@
+.main{
+    font-size: 16px;
+
+
+
+}
+
+
+.main_para{
+
+    font-size: 2em;
+    border: .1em solid red;
+
+
+
+}
+
+main{
+    font-size: 20px;
+
+
+}
+
+.main_list{
+    font-size: 16px;
+
+
+}
+
+.main_list li {
+    font-size: 2em;
+
+
+}
+
+section{
+    background:orange;
+    height: 80vh;
+    width: 10vh;
+
+
+}
+

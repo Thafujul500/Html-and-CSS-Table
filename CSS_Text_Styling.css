@@ -1,0 +1,27 @@
+h2{
+    text-decoration: ;
+
+
+}
+
+h3{
+    text-decoration: underline;
+
+
+}
+h4{
+    text-transform: ;
+     letter-spacing: 1px;
+    word-spacing: 1px;
+}
+
+p{
+
+    font-size: 20px;
+     color: black;
+     text-align: justify;
+    text-indent: 30px;
+    line-height: 25px;
+     text-shadow: 10px 10px rgb(161, 20, 20);
+}
+

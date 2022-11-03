@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+
+    background: gray;
+    padding: 50px;
+    height: 2000px;
+
+
+
+}
+
+
+.parent{
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    background: ivory;
+    position: relative;
+
+
+
+}
+
+.chield_1{
+    background-color: rgb(19, 15, 15);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+ 
+
+}
+
+.chield_2{
+    background-color: rgb(23, 124, 85);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+ 
+}

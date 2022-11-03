@@ -1,0 +1,16 @@
+*{
+    color: rgb(59, 45, 122);
+    margin: 0;
+    padding: 0;
+}
+button{
+
+    color: firebrick;
+    margin: 10px;
+    padding: 2px;
+    border: 2px brown;
+}
+
+button:hover{
+    color: slateblue;
+}
